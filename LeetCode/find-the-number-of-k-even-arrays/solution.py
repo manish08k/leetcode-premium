@@ -1,4 +1,3 @@
-from math import comb
 class Solution:
     def countOfArrays(self, n: int, m: int, k: int) -> int:
         o, e, mod = (m+1)//2, m//2, 10**9+7
