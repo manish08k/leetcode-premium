@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/pour-water/
 
-Solved on: 2026-08-07T03:40:26.000Z
+Solved on: 2026-09-03T06:30:20.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Simulation
