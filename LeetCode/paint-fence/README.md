@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/paint-fence/
 
-Solved on: 2026-08-14T16:03:09.000Z
+Solved on: 2026-09-03T06:14:23.000Z
 Language: python3
 Difficulty: Medium
 Tags: Dynamic Programming
