@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/
 
-Solved on: 2026-08-08T03:12:28.000Z
+Solved on: 2026-09-03T07:39:33.000Z
 Language: python3
 Difficulty: Hard
 Tags: Math, Dynamic Programming, Combinatorics
