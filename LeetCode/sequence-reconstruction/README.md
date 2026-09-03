@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/sequence-reconstruction/
 
-Solved on: 2026-08-06T18:44:48.000Z
+Solved on: 2026-09-03T06:19:30.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Graph Theory, Topological Sort, Directed Acyclic Graph
