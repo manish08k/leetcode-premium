@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/reverse-k-subarrays/
 
-Solved on: 2026-08-29T09:50:34.000Z
+Solved on: 2026-09-03T07:26:33.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Two Pointers
