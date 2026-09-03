@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/design-compressed-string-iterator/
 
-Solved on: 2026-08-23T04:09:30.000Z
+Solved on: 2026-09-03T04:53:06.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, String, Design, Iterator
