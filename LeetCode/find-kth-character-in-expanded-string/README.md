@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-kth-character-in-expanded-string/
 
-Solved on: 2026-08-08T04:21:22.000Z
+Solved on: 2026-09-03T07:24:44.000Z
 Language: python3
 Difficulty: Medium
 Tags: String
