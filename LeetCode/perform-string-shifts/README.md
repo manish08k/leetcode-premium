@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/perform-string-shifts/
 
-Solved on: 2026-08-25T06:21:08.000Z
+Solved on: 2026-09-03T05:15:47.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Math, String
