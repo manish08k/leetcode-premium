@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/good-indices-in-a-digit-string/
 
-Solved on: 2026-08-04T19:56:38.000Z
+Solved on: 2026-09-03T07:25:32.000Z
 Language: python3
 Difficulty: Medium
 Tags: Math, String
