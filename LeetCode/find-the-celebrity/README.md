@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-the-celebrity/
 
-Solved on: 2026-08-14T15:47:49.000Z
+Solved on: 2026-09-03T06:14:27.000Z
 Language: python3
 Difficulty: Medium
 Tags: Two Pointers, Graph Theory, Interactive
