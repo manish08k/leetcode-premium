@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/hexspeak/
 
-Solved on: 2026-08-24T17:53:06.000Z
+Solved on: 2026-09-03T05:12:05.000Z
 Language: python3
 Difficulty: Easy
 Tags: Math, String
