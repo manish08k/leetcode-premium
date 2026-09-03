@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-number-of-accepted-invitations/
 
-Solved on: 2026-08-08T06:24:17.000Z
+Solved on: 2026-09-03T06:47:18.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Depth-First Search, Graph Theory, Matrix, Maximum Flow, Maximum Matching, Bipartite Graph, Edmonds–Karp Algorithm, MPM Algorithm, Push-Relabel Algorithm, Matching (Graph), Flow Network, Dinic's Algorithm
