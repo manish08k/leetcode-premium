@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/linked-list-frequency/
 
-Solved on: 2026-08-27T08:56:12.000Z
+Solved on: 2026-09-03T05:17:23.000Z
 Language: python3
 Difficulty: Easy
 Tags: Hash Table, Linked List, Counting
