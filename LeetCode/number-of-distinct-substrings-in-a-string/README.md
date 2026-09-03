@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/
 
-Solved on: 2026-08-06T11:24:02.000Z
+Solved on: 2026-09-03T06:46:07.000Z
 Language: python3
 Difficulty: Medium
 Tags: String, Trie, Rolling Hash, Suffix Array, Hash Function
