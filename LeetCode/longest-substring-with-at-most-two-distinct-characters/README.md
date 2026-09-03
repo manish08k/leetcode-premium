@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 
-Solved on: 2026-08-12T04:43:14.000Z
+Solved on: 2026-09-03T06:12:17.000Z
 Language: python
 Difficulty: Medium
 Tags: Hash Table, String, Sliding Window
