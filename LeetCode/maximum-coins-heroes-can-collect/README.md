@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-coins-heroes-can-collect/
 
-Solved on: 2026-08-06T04:37:17.000Z
+Solved on: 2026-09-03T07:15:32.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Two Pointers, Binary Search, Sorting, Prefix Sum
