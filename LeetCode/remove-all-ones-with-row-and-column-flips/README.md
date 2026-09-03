@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/
 
-Solved on: 2026-08-05T11:28:32.000Z
+Solved on: 2026-09-03T07:06:46.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Bit Manipulation, Matrix
