@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/design-a-leaderboard/
 
-Solved on: 2026-08-14T15:58:08.000Z
+Solved on: 2026-09-03T06:34:15.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, Design, Sorting
