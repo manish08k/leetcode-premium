@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/
 
-Solved on: 2026-08-08T08:22:02.000Z
+Solved on: 2026-09-03T06:56:31.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Two Pointers, Greedy
