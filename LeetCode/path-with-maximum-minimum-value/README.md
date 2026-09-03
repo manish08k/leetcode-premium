@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/path-with-maximum-minimum-value/
 
-Solved on: 2026-08-07T04:05:01.000Z
+Solved on: 2026-09-03T06:31:49.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Heap (Priority Queue), Matrix, Dijkstra's Algorithm
