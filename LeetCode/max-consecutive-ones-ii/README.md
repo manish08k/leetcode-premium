@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/max-consecutive-ones-ii/
 
-Solved on: 2026-08-13T13:02:13.000Z
+Solved on: 2026-09-03T06:24:29.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Dynamic Programming, Sliding Window
