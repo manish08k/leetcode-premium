@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-the-k-th-lucky-number/
 
-Solved on: 2026-08-05T11:32:28.000Z
+Solved on: 2026-09-03T07:15:15.000Z
 Language: python3
 Difficulty: Medium
 Tags: Math, String, Bit Manipulation
