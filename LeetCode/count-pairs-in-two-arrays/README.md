@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-pairs-in-two-arrays/
 
-Solved on: 2026-08-07T17:42:08.000Z
+Solved on: 2026-09-03T06:49:17.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Two Pointers, Binary Search, Sorting
