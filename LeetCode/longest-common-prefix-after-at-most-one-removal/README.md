@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal/
 
-Solved on: 2026-08-06T04:46:32.000Z
+Solved on: 2026-09-03T07:22:14.000Z
 Language: python3
 Difficulty: Medium
 Tags: Two Pointers, String
