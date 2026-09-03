@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-the-number-of-k-free-subsets/
 
-Solved on: 2026-08-08T17:15:52.000Z
+Solved on: 2026-09-03T07:14:27.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Dynamic Programming, Sorting, Combinatorics
