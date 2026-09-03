@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/shortest-word-distance/
 
-Solved on: 2026-08-21T17:49:51.000Z
+Solved on: 2026-09-03T04:15:31.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, String
