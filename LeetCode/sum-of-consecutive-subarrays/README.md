@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/sum-of-consecutive-subarrays/
 
-Solved on: 2026-08-08T17:41:59.000Z
+Solved on: 2026-09-03T07:21:21.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Two Pointers, Dynamic Programming
