@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 
-Solved on: 2026-08-05T13:36:18.000Z
+Solved on: 2026-09-03T06:37:48.000Z
 Language: python3
 Difficulty: Medium
 Tags: Tree, Breadth-First Search, Binary Tree
