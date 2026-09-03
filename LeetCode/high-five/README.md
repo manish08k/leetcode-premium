@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/high-five/
 
-Solved on: 2026-08-24T17:45:47.000Z
+Solved on: 2026-09-03T04:55:07.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Hash Table, Sorting, Heap (Priority Queue)
