@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/average-height-of-buildings-in-each-segment/
 
-Solved on: 2026-08-07T18:31:30.000Z
+Solved on: 2026-09-03T06:56:49.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Sorting, Heap (Priority Queue), Prefix Sum
