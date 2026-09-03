@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/
 
-Solved on: 2026-08-27T05:48:04.000Z
+Solved on: 2026-09-03T05:16:33.000Z
 Language: python3
 Difficulty: Easy
 Tags: Tree, Depth-First Search, Binary Tree
