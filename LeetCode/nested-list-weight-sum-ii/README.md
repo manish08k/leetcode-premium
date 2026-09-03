@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/nested-list-weight-sum-ii/
 
-Solved on: 2026-08-06T10:04:47.000Z
+Solved on: 2026-09-03T06:18:14.000Z
 Language: python3
 Difficulty: Medium
 Tags: Stack, Depth-First Search, Breadth-First Search
