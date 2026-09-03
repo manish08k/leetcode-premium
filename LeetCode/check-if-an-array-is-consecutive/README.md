@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/check-if-an-array-is-consecutive/
 
-Solved on: 2026-08-26T04:16:50.000Z
+Solved on: 2026-09-03T05:16:27.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Hash Table, Sorting
