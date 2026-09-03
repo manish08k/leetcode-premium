@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/faulty-sensor/
 
-Solved on: 2026-08-25T06:47:43.000Z
+Solved on: 2026-09-03T05:16:14.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Two Pointers
