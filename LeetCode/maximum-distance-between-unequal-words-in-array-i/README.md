@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/
 
-Solved on: 2026-08-27T19:24:46.000Z
+Solved on: 2026-09-03T05:27:23.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, String
