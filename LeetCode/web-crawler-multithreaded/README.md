@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/web-crawler-multithreaded/
 
-Solved on: 2026-08-07T17:05:51.000Z
+Solved on: 2026-09-03T06:34:08.000Z
 Language: python3
 Difficulty: Medium
 Tags: Depth-First Search, Breadth-First Search, Concurrency
