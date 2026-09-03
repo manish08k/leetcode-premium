@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-array-hopping-score-ii/
 
-Solved on: 2026-08-07T18:08:46.000Z
+Solved on: 2026-09-03T07:20:34.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Stack, Greedy, Monotonic Stack
