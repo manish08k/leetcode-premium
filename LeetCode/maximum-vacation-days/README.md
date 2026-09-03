@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-vacation-days/
 
-Solved on: 2026-08-08T18:31:33.000Z
+Solved on: 2026-09-03T07:33:30.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Dynamic Programming, Matrix
