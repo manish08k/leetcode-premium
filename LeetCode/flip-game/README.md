@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/flip-game/
 
-Solved on: 2026-08-22T09:36:38.000Z
+Solved on: 2026-09-03T04:20:04.000Z
 Language: python3
 Difficulty: Easy
 Tags: String
