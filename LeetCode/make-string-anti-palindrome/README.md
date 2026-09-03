@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/make-string-anti-palindrome/
 
-Solved on: 2026-08-08T19:34:08.000Z
+Solved on: 2026-09-03T07:40:28.000Z
 Language: python3
 Difficulty: Hard
 Tags: String, Greedy, Sorting, Counting Sort
