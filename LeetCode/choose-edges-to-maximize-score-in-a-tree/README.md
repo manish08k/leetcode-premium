@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/
 
-Solved on: 2026-08-08T04:18:43.000Z
+Solved on: 2026-09-03T07:11:29.000Z
 Language: python3
 Difficulty: Medium
 Tags: Dynamic Programming, Tree, Depth-First Search
