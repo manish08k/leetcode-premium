@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/array-transformation/
 
-Solved on: 2026-08-24T17:52:13.000Z
+Solved on: 2026-09-03T05:11:53.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Simulation
