@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-single-divisor-triplets/
 
-Solved on: 2026-08-08T04:44:09.000Z
+Solved on: 2026-09-03T07:10:17.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Counting, Enumeration
