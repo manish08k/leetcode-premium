@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/correct-a-binary-tree/
 
-Solved on: 2026-08-05T13:59:54.000Z
+Solved on: 2026-09-03T06:43:27.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
