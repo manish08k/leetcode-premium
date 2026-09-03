@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-the-number-of-k-even-arrays/
 
-Solved on: 2026-08-07T17:34:55.000Z
+Solved on: 2026-09-03T07:21:38.000Z
 Language: python3
 Difficulty: Medium
 Tags: Dynamic Programming
