@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/two-sum-less-than-k/
 
-Solved on: 2026-09-03T04:55:43.000Z
+Solved on: 2026-09-03T04:56:59.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Two Pointers, Binary Search, Sorting
