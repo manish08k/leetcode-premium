@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/range-sum-query-2d-mutable/
 
-Solved on: 2026-08-15T02:57:09.000Z
+Solved on: 2026-09-03T06:16:34.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Design, Binary Indexed Tree, Segment Tree, Matrix, Sqrt Decomposition
