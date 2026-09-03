@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 
-Solved on: 2026-08-05T13:49:54.000Z
+Solved on: 2026-09-03T06:59:39.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, Math, String, Counting, Prefix Sum
