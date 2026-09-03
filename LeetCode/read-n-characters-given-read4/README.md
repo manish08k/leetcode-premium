@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/read-n-characters-given-read4/
 
-Solved on: 2026-08-21T16:37:23.000Z
+Solved on: 2026-09-03T04:14:45.000Z
 Language: python
 Difficulty: Easy
 Tags: Array, Simulation, Interactive
