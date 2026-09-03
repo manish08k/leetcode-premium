@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/
 
-Solved on: 2026-08-07T17:17:46.000Z
+Solved on: 2026-09-03T06:38:12.000Z
 Language: python3
 Difficulty: Medium
 Tags: Linked List, Math, Two Pointers
