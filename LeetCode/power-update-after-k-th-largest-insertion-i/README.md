@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/power-update-after-k-th-largest-insertion-i/
 
-Solved on: 2026-08-06T09:51:15.000Z
+Solved on: 2026-09-03T07:31:24.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Hash Table, Math, Segment Tree, Sorting, Heap (Priority Queue)
