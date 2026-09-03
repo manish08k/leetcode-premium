@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/largest-unique-number/
 
-Solved on: 2026-08-24T17:48:23.000Z
+Solved on: 2026-09-03T04:57:37.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Hash Table, Sorting
