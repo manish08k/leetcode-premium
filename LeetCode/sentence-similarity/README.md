@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/sentence-similarity/
 
-Solved on: 2026-08-23T04:28:59.000Z
+Solved on: 2026-09-03T04:53:25.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Hash Table, String
