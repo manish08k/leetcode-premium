@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/closest-binary-search-tree-value/
 
-Solved on: 2026-08-22T09:34:46.000Z
+Solved on: 2026-09-03T04:19:55.000Z
 Language: python3
 Difficulty: Easy
 Tags: Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree
