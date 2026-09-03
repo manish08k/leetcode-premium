@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/word-pattern-ii/
 
-Solved on: 2026-08-06T18:01:36.000Z
+Solved on: 2026-09-03T06:16:17.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, String, Backtracking
