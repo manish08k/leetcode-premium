@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/armstrong-number/
 
-Solved on: 2026-08-24T17:48:34.000Z
+Solved on: 2026-09-03T04:57:43.000Z
 Language: python3
 Difficulty: Easy
 Tags: Math
