@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/apply-substitutions/
 
-Solved on: 2026-08-05T10:24:16.000Z
+Solved on: 2026-09-03T07:22:31.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Hash Table, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
