@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-permutation/
 
-Solved on: 2026-08-13T13:42:44.000Z
+Solved on: 2026-09-03T06:24:14.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, String, Stack, Greedy
