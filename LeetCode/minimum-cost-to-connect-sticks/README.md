@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 
-Solved on: 2026-08-14T15:52:13.000Z
+Solved on: 2026-09-03T06:32:44.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Greedy, Heap (Priority Queue)
