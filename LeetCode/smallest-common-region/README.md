@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/smallest-common-region/
 
-Solved on: 2026-08-08T02:55:52.000Z
+Solved on: 2026-09-03T06:34:29.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search, Binary Lifting, Lowest Common Ancestor
