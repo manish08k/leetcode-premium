@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 
-Solved on: 2026-09-03T05:01:48.000Z
+Solved on: 2026-09-03T05:04:26.000Z
 Language: python3
 Difficulty: Easy
 Tags: Math, String
