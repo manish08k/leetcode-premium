@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-subtree-of-the-same-color/
 
-Solved on: 2026-08-07T18:26:31.000Z
+Solved on: 2026-09-03T07:17:44.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Dynamic Programming, Tree, Depth-First Search
