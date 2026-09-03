@@ -1,8 +1,8 @@
-# Alt and Tab Simulation
+# Number of Subsequences with Odd Sum
 
 Problem: https://leetcode.com/problems/alt-and-tab-simulation/
 
-Solved on: 2026-08-08T05:11:45.000Z
+Solved on: 2026-09-03T07:20:52.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Hash Table, Simulation
