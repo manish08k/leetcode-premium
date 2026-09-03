@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/design-most-recently-used-queue/
 
-Solved on: 2026-08-05T09:18:02.000Z
+Solved on: 2026-09-03T06:46:33.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Linked List, Divide and Conquer, Design, Simulation, Doubly-Linked List, Sqrt Decomposition, Treap, Splay Tree
