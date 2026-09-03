@@ -1,0 +1,23 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+class Solution:
+    def splitBST(self, root: Optional[TreeNode], target: int) -> List[Optional[TreeNode]]:
+        if not root:
+            return [None, None]
+        
+        # Case 1: root belongs to LEFT part
+        if root.val <= target:
+            leftTree, rightTree = self.splitBST(root.right, target)
+            root.right = leftTree
+            return [root, rightTree]
+        
+        # Case 2: root belongs to RIGHT part
+        else:
+            leftTree, rightTree = self.splitBST(root.left, target)
+            root.left = rightTree
+            return [leftTree, root]
