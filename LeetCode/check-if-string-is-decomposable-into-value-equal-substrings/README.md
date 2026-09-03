@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
-Solved on: 2026-08-25T06:52:28.000Z
+Solved on: 2026-09-03T05:16:20.000Z
 Language: python3
 Difficulty: Easy
 Tags: String
