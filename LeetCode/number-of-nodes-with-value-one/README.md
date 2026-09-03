@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-nodes-with-value-one/
 
-Solved on: 2026-08-06T10:43:29.000Z
+Solved on: 2026-09-03T07:12:17.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Tree, Depth-First Search, Breadth-First Search, Binary Tree
