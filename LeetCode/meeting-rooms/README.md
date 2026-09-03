@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/meeting-rooms/
 
-Solved on: 2026-08-21T17:50:48.000Z
+Solved on: 2026-09-03T04:16:41.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Sorting, Quicksort
