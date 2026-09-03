@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/
 
-Solved on: 2026-09-01T12:47:57.000Z
+Solved on: 2026-09-03T07:17:17.000Z
 Language: python3
 Difficulty: Medium
 Tags: Math, Dynamic Programming, Number Theory
