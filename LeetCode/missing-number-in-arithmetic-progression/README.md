@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/missing-number-in-arithmetic-progression/
 
-Solved on: 2026-08-24T17:51:54.000Z
+Solved on: 2026-09-03T05:05:13.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Math
