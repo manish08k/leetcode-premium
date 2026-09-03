@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/shortest-way-to-form-string/
 
-Solved on: 2026-08-11T07:05:46.000Z
+Solved on: 2026-09-03T06:30:32.000Z
 Language: python3
 Difficulty: Medium
 Tags: Two Pointers, String, Binary Search, Greedy
