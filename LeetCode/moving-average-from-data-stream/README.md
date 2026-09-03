@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/moving-average-from-data-stream/
 
-Solved on: 2026-08-22T09:41:14.000Z
+Solved on: 2026-09-03T04:24:02.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Design, Queue, Data Stream
