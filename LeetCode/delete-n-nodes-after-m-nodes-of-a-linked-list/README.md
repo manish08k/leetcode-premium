@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/
 
-Solved on: 2026-08-25T06:23:50.000Z
+Solved on: 2026-09-03T05:16:03.000Z
 Language: python3
 Difficulty: Easy
 Tags: Linked List
