@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/
 
-Solved on: 2026-08-08T05:45:06.000Z
+Solved on: 2026-09-03T07:19:24.000Z
 Language: python3
 Difficulty: Medium
 Tags: String, Greedy, Sorting
