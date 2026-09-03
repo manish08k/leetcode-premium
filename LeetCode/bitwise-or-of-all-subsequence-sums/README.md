@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/
 
-Solved on: 2026-08-06T13:45:48.000Z
+Solved on: 2026-09-03T07:13:57.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Bit Manipulation, Brainteaser, Prefix Sum
