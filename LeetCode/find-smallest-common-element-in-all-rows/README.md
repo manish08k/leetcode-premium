@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 
-Solved on: 2026-08-13T13:05:48.000Z
+Solved on: 2026-09-03T06:33:28.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Hash Table, Binary Search, Matrix, Counting
