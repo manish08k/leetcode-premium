@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 
-Solved on: 2026-08-08T04:02:27.000Z
+Solved on: 2026-09-03T07:12:44.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, Math, String, Prefix Sum
