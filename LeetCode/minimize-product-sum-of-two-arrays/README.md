@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
 
-Solved on: 2026-08-29T05:50:48.000Z
+Solved on: 2026-09-03T06:48:13.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Greedy, Sorting
