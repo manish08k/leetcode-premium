@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/logger-rate-limiter/
 
-Solved on: 2026-08-22T09:44:07.000Z
+Solved on: 2026-09-03T04:24:49.000Z
 Language: python3
 Difficulty: Easy
 Tags: Hash Table, Design, Data Stream
