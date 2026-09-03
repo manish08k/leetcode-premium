@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/
 
-Solved on: 2026-08-08T08:30:35.000Z
+Solved on: 2026-09-03T07:36:32.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Dynamic Programming, Sqrt Decomposition
