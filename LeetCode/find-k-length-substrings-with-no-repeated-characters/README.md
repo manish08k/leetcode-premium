@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 
-Solved on: 2026-08-13T13:03:18.000Z
+Solved on: 2026-09-03T06:31:26.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, String, Sliding Window
