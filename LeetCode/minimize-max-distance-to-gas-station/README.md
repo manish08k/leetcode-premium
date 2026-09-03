@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimize-max-distance-to-gas-station/
 
-Solved on: 2026-08-08T05:09:14.000Z
+Solved on: 2026-09-03T07:34:17.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Binary Search
