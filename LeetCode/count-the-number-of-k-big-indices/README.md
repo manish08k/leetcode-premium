@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-the-number-of-k-big-indices/
 
-Solved on: 2026-08-08T05:23:05.000Z
+Solved on: 2026-09-03T07:38:20.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
