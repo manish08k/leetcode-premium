@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
-Solved on: 2026-08-08T09:54:01.000Z
+Solved on: 2026-09-03T06:53:57.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Stack, Monotonic Stack, Cartesian Tree
