@@ -10,13 +10,11 @@ class Solution:
         if not root:
             return [None, None]
         
-        # Case 1: root belongs to LEFT part
         if root.val <= target:
             leftTree, rightTree = self.splitBST(root.right, target)
             root.right = leftTree
             return [root, rightTree]
         
-        # Case 2: root belongs to RIGHT part
         else:
             leftTree, rightTree = self.splitBST(root.left, target)
             root.left = rightTree
