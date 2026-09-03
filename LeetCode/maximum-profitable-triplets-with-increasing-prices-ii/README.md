@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/
 
-Solved on: 2026-08-08T19:39:48.000Z
+Solved on: 2026-09-03T07:39:38.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Binary Indexed Tree, Segment Tree
