@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/
 
-Solved on: 2026-08-07T18:23:34.000Z
+Solved on: 2026-09-03T06:47:12.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Interactive, Shortest Path
