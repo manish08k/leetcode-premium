@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
 
-Solved on: 2026-08-06T19:11:46.000Z
+Solved on: 2026-09-03T06:27:36.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Dynamic Programming, Matrix
