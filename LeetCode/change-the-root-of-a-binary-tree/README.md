@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/change-the-root-of-a-binary-tree/
 
-Solved on: 2026-08-05T13:38:17.000Z
+Solved on: 2026-09-03T06:45:37.000Z
 Language: python3
 Difficulty: Medium
 Tags: Tree, Depth-First Search, Binary Tree
