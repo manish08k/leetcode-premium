@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/shortest-path-to-get-food/
 
-Solved on: 2026-08-07T17:18:38.000Z
+Solved on: 2026-09-03T06:46:16.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Breadth-First Search, Matrix
