@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/
 
-Solved on: 2026-08-06T13:46:43.000Z
+Solved on: 2026-09-03T06:54:37.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Binary Search, Stack, Monotonic Stack
