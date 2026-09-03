@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii/
 
-Solved on: 2026-08-04T20:23:30.000Z
+Solved on: 2026-09-03T07:21:29.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Linked List, Doubly-Linked List
