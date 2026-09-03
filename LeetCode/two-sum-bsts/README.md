@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/two-sum-bsts/
 
-Solved on: 2026-08-14T15:46:01.000Z
+Solved on: 2026-09-03T06:33:36.000Z
 Language: python3
 Difficulty: Medium
 Tags: Two Pointers, Binary Search, Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree
