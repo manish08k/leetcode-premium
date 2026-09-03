@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/handshakes-that-dont-cross/
 
-Solved on: 2026-08-29T14:14:12.000Z
+Solved on: 2026-09-03T07:36:10.000Z
 Language: python3
 Difficulty: Hard
 Tags: Math, Dynamic Programming
