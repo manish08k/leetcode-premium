@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/graph-valid-tree/
 
-Solved on: 2026-08-17T09:09:42.000Z
+Solved on: 2026-09-03T06:14:09.000Z
 Language: python3
 Difficulty: Medium
 Tags: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
