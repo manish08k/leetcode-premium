@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/parallel-courses/
 
-Solved on: 2026-08-14T15:49:06.000Z
+Solved on: 2026-09-03T06:32:15.000Z
 Language: python3
 Difficulty: Medium
 Tags: Graph Theory, Topological Sort, Directed Acyclic Graph
