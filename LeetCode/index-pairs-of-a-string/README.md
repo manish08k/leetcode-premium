@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/index-pairs-of-a-string/
 
-Solved on: 2026-08-05T16:59:11.000Z
+Solved on: 2026-09-03T04:54:35.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, String, Trie, Sorting, Aho–Corasick Algorithm
