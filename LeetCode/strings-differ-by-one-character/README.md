@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/strings-differ-by-one-character/
 
-Solved on: 2026-08-07T17:15:08.000Z
+Solved on: 2026-09-03T06:37:15.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, String, Rolling Hash, Hash Function
