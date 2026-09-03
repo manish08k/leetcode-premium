@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/phone-number-prefix/
 
-Solved on: 2026-08-05T17:46:10.000Z
+Solved on: 2026-09-03T05:26:42.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, String, Trie, Sorting
