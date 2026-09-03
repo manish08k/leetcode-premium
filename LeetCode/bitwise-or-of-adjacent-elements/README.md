@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/bitwise-or-of-adjacent-elements/
 
-Solved on: 2026-08-27T09:14:48.000Z
+Solved on: 2026-09-03T05:26:06.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Bit Manipulation
