@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/
 
-Solved on: 2026-08-06T17:25:34.000Z
+Solved on: 2026-09-03T07:10:07.000Z
 Language: python3
 Difficulty: Medium
 Tags: Math, Dynamic Programming
