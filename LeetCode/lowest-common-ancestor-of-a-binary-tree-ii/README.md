@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
-Solved on: 2026-08-06T04:16:09.000Z
+Solved on: 2026-09-03T06:40:46.000Z
 Language: python3
 Difficulty: Medium
 Tags: Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
