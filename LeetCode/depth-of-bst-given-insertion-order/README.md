@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/depth-of-bst-given-insertion-order/
 
-Solved on: 2026-08-08T09:53:30.000Z
+Solved on: 2026-09-03T06:49:26.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Tree, Binary Search Tree, Binary Tree, Ordered Set
