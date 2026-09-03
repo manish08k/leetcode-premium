@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 
-Solved on: 2026-08-05T16:24:19.000Z
+Solved on: 2026-09-03T07:11:17.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Greedy
