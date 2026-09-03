@@ -1,0 +1,43 @@
+# Find The K-th Lucky Number
+
+Problem: https://leetcode.com/problems/find-the-k-th-lucky-number/
+
+Solved on: 2026-08-05T11:32:28.000Z
+Language: python3
+Difficulty: Medium
+Tags: Math, String, Bit Manipulation
+
+---
+
+We know that `4` and `7` are **lucky** digits. Also, a number is called **lucky** if it contains **only** lucky digits.
+
+You are given an integer `k`, return* the *`k^th`* lucky number represented as a **string**.*
+
+**Example 1:**
+
+```
+**Input:** k = 4
+**Output:** "47"
+**Explanation:** The first lucky number is 4, the second one is 7, the third one is 44 and the fourth one is 47.
+```
+
+**Example 2:**
+
+```
+**Input:** k = 10
+**Output:** "477"
+**Explanation:** Here are lucky numbers sorted in increasing order:
+4, 7, 44, 47, 74, 77, 444, 447, 474, 477. So the 10^th lucky number is 477.
+```
+
+**Example 3:**
+
+```
+**Input:** k = 1000
+**Output:** "777747447"
+**Explanation:** It can be shown that the 1000^th lucky number is 777747447.
+```
+
+**Constraints:**
+
+	- `1 <= k <= 10^9`
