@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/design-file-system/
 
-Solved on: 2026-08-06T11:17:33.000Z
+Solved on: 2026-09-03T06:32:37.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, String, Design, Trie
