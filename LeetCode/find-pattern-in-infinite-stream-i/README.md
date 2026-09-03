@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-pattern-in-infinite-stream-i/
 
-Solved on: 2026-08-08T03:10:52.000Z
+Solved on: 2026-09-03T07:17:50.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Sliding Window, Rolling Hash, String Matching, Interactive, Hash Function
