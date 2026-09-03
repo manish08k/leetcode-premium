@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/valid-subarrays-with-exactly-one-peak/
 
-Solved on: 2026-08-06T10:02:25.000Z
+Solved on: 2026-09-03T07:30:48.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math
