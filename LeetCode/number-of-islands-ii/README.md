@@ -1,8 +1,8 @@
-# Number of Islands II
+# Shortest Distance from All Buildings
 
 Problem: https://leetcode.com/problems/number-of-islands-ii/
 
-Solved on: 2026-08-14T15:48:46.000Z
+Solved on: 2026-09-03T07:32:28.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Hash Table, Union-Find
