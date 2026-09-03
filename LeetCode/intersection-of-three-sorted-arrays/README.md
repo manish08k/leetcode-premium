@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 
-Solved on: 2026-08-24T17:51:30.000Z
+Solved on: 2026-09-03T05:05:04.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Hash Table, Binary Search, Counting
