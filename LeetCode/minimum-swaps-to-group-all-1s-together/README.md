@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 
-Solved on: 2026-08-07T04:11:52.000Z
+Solved on: 2026-09-03T06:32:24.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Sliding Window
