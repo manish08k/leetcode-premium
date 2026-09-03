@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/optimize-water-distribution-in-a-village/
 
-Solved on: 2026-08-17T09:41:11.000Z
+Solved on: 2026-09-03T07:35:15.000Z
 Language: python3
 Difficulty: Hard
 Tags: Union-Find, Graph Theory, Heap (Priority Queue), Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm
