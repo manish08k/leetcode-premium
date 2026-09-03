@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-self-divisible-permutations/
 
-Solved on: 2026-08-05T17:47:32.000Z
+Solved on: 2026-09-03T07:17:25.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask
