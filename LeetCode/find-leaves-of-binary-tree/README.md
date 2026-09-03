@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-leaves-of-binary-tree/
 
-Solved on: 2026-08-14T15:45:18.000Z
+Solved on: 2026-09-03T06:18:41.000Z
 Language: python3
 Difficulty: Medium
 Tags: Tree, Depth-First Search, Binary Tree, DP on Trees
