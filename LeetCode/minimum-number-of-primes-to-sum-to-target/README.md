@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target/
 
-Solved on: 2026-08-07T18:03:14.000Z
+Solved on: 2026-09-03T07:23:25.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Dynamic Programming, Number Theory
