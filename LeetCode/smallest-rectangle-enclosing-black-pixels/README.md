@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 
-Solved on: 2026-08-07T17:37:18.000Z
+Solved on: 2026-09-03T07:32:17.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Binary Search, Depth-First Search, Breadth-First Search, Matrix
