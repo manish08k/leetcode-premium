@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/flip-game-ii/
 
-Solved on: 2026-08-06T18:06:02.000Z
+Solved on: 2026-09-03T06:16:25.000Z
 Language: python3
 Difficulty: Medium
 Tags: Math, Dynamic Programming, Backtracking, Memoization, Minimax, Game Theory, Sprague–Grundy Theorem, Impartial Game
