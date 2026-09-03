@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-root-of-n-ary-tree/
 
-Solved on: 2026-08-14T15:46:32.000Z
+Solved on: 2026-09-03T06:36:47.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, Bit Manipulation, Tree, Depth-First Search
