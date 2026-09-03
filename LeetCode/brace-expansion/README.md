@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/brace-expansion/
 
-Solved on: 2026-08-14T16:02:50.000Z
+Solved on: 2026-09-03T06:31:16.000Z
 Language: python3
 Difficulty: Medium
 Tags: String, Backtracking, Stack, Breadth-First Search, Sorting
