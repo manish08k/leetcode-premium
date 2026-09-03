@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/
 
-Solved on: 2026-08-06T04:03:13.000Z
+Solved on: 2026-09-03T07:16:16.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Stack, Sorting, Monotonic Stack
