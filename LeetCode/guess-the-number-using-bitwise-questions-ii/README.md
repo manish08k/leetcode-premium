@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/
 
-Solved on: 2026-08-04T20:25:40.000Z
+Solved on: 2026-09-03T07:18:57.000Z
 Language: python3
 Difficulty: Medium
 Tags: Bit Manipulation, Interactive
