@@ -1,8 +1,8 @@
-# Count Ways to Distribute Candies
+# Sum Of Special Evenly-Spaced Elements In Array
 
 Problem: https://leetcode.com/problems/count-ways-to-distribute-candies/
 
-Solved on: 2026-08-06T13:28:16.000Z
+Solved on: 2026-09-03T07:36:27.000Z
 Language: python3
 Difficulty: Hard
 Tags: Dynamic Programming
