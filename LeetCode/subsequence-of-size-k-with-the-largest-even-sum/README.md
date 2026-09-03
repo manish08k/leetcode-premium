@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/
 
-Solved on: 2026-08-08T13:37:08.000Z
+Solved on: 2026-09-03T07:00:51.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Greedy, Sorting
