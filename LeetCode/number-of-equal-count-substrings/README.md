@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-equal-count-substrings/
 
-Solved on: 2026-08-08T13:34:30.000Z
+Solved on: 2026-09-03T06:58:33.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, String, Sliding Window, Counting
