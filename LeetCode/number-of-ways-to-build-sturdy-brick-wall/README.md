@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/
 
-Solved on: 2026-08-08T13:38:59.000Z
+Solved on: 2026-09-03T07:10:03.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Dynamic Programming, Bit Manipulation, Bitmask
