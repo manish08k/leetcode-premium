@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/
 
-Solved on: 2026-08-08T13:32:46.000Z
+Solved on: 2026-09-03T06:56:40.000Z
 Language: python3
 Difficulty: Medium
 Tags: Math, Enumeration
