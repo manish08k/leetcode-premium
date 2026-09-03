@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 
-Solved on: 2026-08-24T17:50:47.000Z
+Solved on: 2026-09-03T05:04:55.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Greedy, Sorting
