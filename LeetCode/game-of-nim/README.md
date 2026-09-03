@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/game-of-nim/
 
-Solved on: 2026-08-07T17:20:06.000Z
+Solved on: 2026-09-03T06:49:34.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Dynamic Programming, Bit Manipulation, Brainteaser, Game Theory, Nim Game, Sprague–Grundy Theorem, Impartial Game
