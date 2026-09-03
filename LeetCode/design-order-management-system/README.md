@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/design-order-management-system/
 
-Solved on: 2026-08-05T09:07:43.000Z
+Solved on: 2026-09-03T07:25:53.000Z
 Language: python3
 Difficulty: Medium
 Tags: Hash Table, Design
