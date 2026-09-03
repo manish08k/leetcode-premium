@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/
 
-Solved on: 2026-08-06T03:36:09.000Z
+Solved on: 2026-09-03T07:02:45.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array
