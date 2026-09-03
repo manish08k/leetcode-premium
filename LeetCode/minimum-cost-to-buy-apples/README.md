@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-cost-to-buy-apples/
 
-Solved on: 2026-08-06T10:00:00.000Z
+Solved on: 2026-09-03T07:12:27.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Graph Theory, Heap (Priority Queue), Shortest Path
