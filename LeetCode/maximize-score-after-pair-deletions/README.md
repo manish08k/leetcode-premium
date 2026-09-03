@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximize-score-after-pair-deletions/
 
-Solved on: 2026-08-08T06:29:00.000Z
+Solved on: 2026-09-03T07:22:35.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Greedy
