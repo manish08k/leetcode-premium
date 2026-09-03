@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/diet-plan-performance/
 
-Solved on: 2026-08-24T17:49:47.000Z
+Solved on: 2026-09-03T05:01:20.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Sliding Window
