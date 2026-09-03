@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/library-late-fee-calculator/
 
-Solved on: 2026-08-27T19:30:29.000Z
+Solved on: 2026-09-03T05:27:19.000Z
 Language: python3
 Difficulty: Easy
 Tags: Array, Simulation
