@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-number-of-upgradable-servers/
 
-Solved on: 2026-08-08T17:31:41.000Z
+Solved on: 2026-09-03T07:19:38.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Binary Search
