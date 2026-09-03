@@ -1,8 +1,8 @@
-# Count Strictly Increasing Subarrays
+# Closest Fair Integer
 
 Problem: https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
-Solved on: 2026-08-06T03:29:46.000Z
+Solved on: 2026-09-03T07:11:39.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Math, Dynamic Programming
