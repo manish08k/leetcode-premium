@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/similar-rgb-color/
 
-Solved on: 2026-08-30T03:08:57.000Z
+Solved on: 2026-09-03T04:53:44.000Z
 Language: python3
 Difficulty: Easy
 Tags: Math, String, Enumeration
