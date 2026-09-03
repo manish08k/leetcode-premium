@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/
 
-Solved on: 2026-08-07T17:27:42.000Z
+Solved on: 2026-09-03T07:00:56.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Hash Table, Sliding Window
