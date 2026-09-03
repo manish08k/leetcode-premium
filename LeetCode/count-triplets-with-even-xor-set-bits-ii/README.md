@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/
 
-Solved on: 2026-08-07T17:28:36.000Z
+Solved on: 2026-09-03T07:20:08.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Bit Manipulation
