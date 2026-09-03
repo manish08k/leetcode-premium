@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/brightest-position-on-street/
 
-Solved on: 2026-08-07T17:39:12.000Z
+Solved on: 2026-09-03T06:57:29.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Sorting, Prefix Sum, Ordered Set
