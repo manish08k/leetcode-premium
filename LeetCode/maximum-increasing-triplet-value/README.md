@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-increasing-triplet-value/
 
-Solved on: 2026-08-08T17:28:39.000Z
+Solved on: 2026-09-03T07:18:40.000Z
 Language: python3
 Difficulty: Medium
 Tags: Array, Ordered Set
