@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/generate-the-invoice/
 
-Solved on: 2026-08-05T11:28:59.000Z
+Solved on: 2026-09-04T12:23:12.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
