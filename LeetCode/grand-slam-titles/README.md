@@ -1,8 +1,8 @@
-# Grand Slam Titles
+# Find Interview Candidates
 
 Problem: https://leetcode.com/problems/grand-slam-titles/
 
-Solved on: 2026-08-17T12:30:50.000Z
+Solved on: 2026-09-04T11:57:36.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
