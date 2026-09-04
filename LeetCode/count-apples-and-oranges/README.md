@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-apples-and-oranges/
 
-Solved on: 2026-08-05T11:33:25.000Z
+Solved on: 2026-09-04T11:57:25.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
