@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/alien-dictionary/
 
-Solved on: 2026-08-17T09:16:55.000Z
+Solved on: 2026-09-03T07:32:08.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
