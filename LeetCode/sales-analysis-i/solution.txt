@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+SELECT seller_id
+FROM Sales
+GROUP BY 1
+HAVING SUM(price) = (SELECT p FROM (
+    SELECT seller_id, SUM(price) AS p FROM Sales
+    GROUP BY 1 ORDER BY 2 DESC LIMIT 1
+) pp )
