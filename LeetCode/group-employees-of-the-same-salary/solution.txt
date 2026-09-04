@@ -1,0 +1,5 @@
+
+select distinct e1.employee_id,e1.name ,e1.salary ,dense_rank() over (order by e1.salary asc) as team_id 
+from employees e1 ,employees e2 
+where e1.employee_id <>e2.employee_id and e1.salary =e2.salary 
+order by team_id asc ,employee_id asc 
