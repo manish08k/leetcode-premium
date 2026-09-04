@@ -1,0 +1,16 @@
+with allfrnds as(
+    select user1_id  users,user2_id frnds
+    from friendship
+    union all
+    select user2_id  users,user1_id frnds
+    from friendship
+)
+select f.user1_id ,f.user2_id ,count(fa.frnds) common_friend 
+from Friendship f 
+join allfrnds fa   
+on f.user1_id=fa.users 
+join allfrnds fb  
+on f.user2_id=fb.users  
+and fa.frnds=fb.frnds  
+group by f.user1_id ,f.user2_id
+having count(*)>2
