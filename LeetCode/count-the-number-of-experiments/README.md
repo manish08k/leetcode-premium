@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/count-the-number-of-experiments/
 
-Solved on: 2026-08-08T09:40:14.000Z
+Solved on: 2026-09-04T11:58:30.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
