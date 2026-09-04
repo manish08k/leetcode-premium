@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger/
 
-Solved on: 2026-08-05T17:48:37.000Z
+Solved on: 2026-09-04T11:59:41.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
