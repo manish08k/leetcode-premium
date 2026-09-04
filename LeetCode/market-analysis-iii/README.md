@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/market-analysis-iii/
 
-Solved on: 2026-08-08T17:21:04.000Z
+Solved on: 2026-09-04T12:05:09.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
