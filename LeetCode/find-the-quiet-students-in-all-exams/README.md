@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-the-quiet-students-in-all-exams/
 
-Solved on: 2026-08-17T13:17:55.000Z
+Solved on: 2026-09-04T12:11:19.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
