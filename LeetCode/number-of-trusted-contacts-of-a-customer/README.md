@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/
 
-Solved on: 2026-08-05T13:43:52.000Z
+Solved on: 2026-09-04T11:56:10.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
