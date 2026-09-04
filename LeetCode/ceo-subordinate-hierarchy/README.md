@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/ceo-subordinate-hierarchy/
 
-Solved on: 2026-08-06T04:07:00.000Z
+Solved on: 2026-09-04T12:24:37.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
