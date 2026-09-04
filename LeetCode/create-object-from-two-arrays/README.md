@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/create-object-from-two-arrays/
 
-Solved on: 2026-08-05T17:39:30.000Z
+Solved on: 2026-09-04T11:53:19.000Z
 Language: javascript
 Difficulty: Easy
 
