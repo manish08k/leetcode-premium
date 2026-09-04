@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days/
 
-Solved on: 2026-08-09T03:56:59.000Z
+Solved on: 2026-09-04T12:23:36.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
