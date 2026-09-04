@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-overlapping-shifts/
 
-Solved on: 2026-08-08T02:59:16.000Z
+Solved on: 2026-09-04T12:09:25.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
