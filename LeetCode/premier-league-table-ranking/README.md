@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/premier-league-table-ranking/
 
-Solved on: 2026-08-05T09:08:21.000Z
+Solved on: 2026-09-04T11:54:17.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
