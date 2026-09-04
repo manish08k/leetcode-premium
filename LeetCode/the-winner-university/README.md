@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/the-winner-university/
 
-Solved on: 2026-08-05T11:58:22.000Z
+Solved on: 2026-09-04T11:50:28.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
