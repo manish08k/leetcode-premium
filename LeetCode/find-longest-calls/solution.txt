@@ -1,0 +1,49 @@
+
+with t as (
+    select 
+        first_name, 
+        type, 
+        duration 
+    from calls as c 
+    join contacts as c1
+    on c1.id = c.contact_id
+), 
+
+t1 as (
+    select 
+        first_name, 
+        type,
+        duration
+    from t 
+    where type = 'incoming'
+    order by duration desc
+    limit 3
+), 
+
+t2 as (
+    select 
+        first_name, 
+        type,
+        duration
+    from t 
+    where type = 'outgoing'
+    order by duration desc
+    limit 3
+), 
+
+t3 as (
+    select 
+        *
+    from t1
+    union all
+    select 
+        *
+    from t2
+)
+
+select 
+    first_name, 
+    type,
+    time_format(sec_to_time(duration), '%H:%i:%s') as duration_formatted 
+from t3
+order by type desc, duration_formatted desc, first_name desc
