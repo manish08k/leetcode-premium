@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/the-change-in-global-rankings/
 
-Solved on: 2026-08-07T17:37:42.000Z
+Solved on: 2026-09-04T11:59:15.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
