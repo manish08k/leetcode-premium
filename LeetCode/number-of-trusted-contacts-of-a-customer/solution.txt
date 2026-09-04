@@ -1,0 +1,12 @@
+select 
+a.invoice_id,b.customer_name,price,count(c.contact_email)contacts_cnt,
+count(d.email)trusted_contacts_cnt 
+from Invoices a
+join Customers b
+on a.user_id =b.customer_id
+left join Contacts c
+on b.customer_id=c.user_id
+left join Customers d
+on c.contact_email=d.email
+group by 1,2,3
+order by 1
