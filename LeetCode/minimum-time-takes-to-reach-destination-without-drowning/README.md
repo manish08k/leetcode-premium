@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/
 
-Solved on: 2026-08-08T04:56:53.000Z
+Solved on: 2026-09-03T07:39:23.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Breadth-First Search, Matrix
