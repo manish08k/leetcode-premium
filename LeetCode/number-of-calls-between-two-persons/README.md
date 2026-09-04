@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/number-of-calls-between-two-persons/
 
-Solved on: 2026-08-17T09:02:12.000Z
+Solved on: 2026-09-04T11:57:16.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
