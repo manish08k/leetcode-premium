@@ -1,8 +1,8 @@
-# Group Employees of the Same Salary
+# Strong Friendship
 
 Problem: https://leetcode.com/problems/group-employees-of-the-same-salary/
 
-Solved on: 2026-08-06T11:06:51.000Z
+Solved on: 2026-09-04T11:58:14.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
