@@ -1,0 +1,12 @@
+with cte as(
+select date_format(pay_date,'%Y-%m')pay_month ,department_id ,
+avg(amount) over(partition by pay_date)cag,
+avg(amount) over(partition by pay_date,department_id )dag
+from salary
+join Employee 
+using(employee_id  ))
+select distinct  pay_month  ,department_id  ,
+case when cag>dag then 'lower'
+when dag>cag then 'higher'
+else 'same' end comparison 
+from cte
