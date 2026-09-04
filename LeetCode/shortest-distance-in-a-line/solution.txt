@@ -1,0 +1,15 @@
+
+with Point as (
+    select 
+        row_number() over (order by x) as n, 
+        x
+    from Point 
+)
+
+select 
+    min(p1.x - p2.x) as shortest 
+from Point as p1 
+join Point as p2 
+on p1.n = (p2.n+1)
+
+
