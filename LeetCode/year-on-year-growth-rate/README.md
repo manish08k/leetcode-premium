@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/year-on-year-growth-rate/
 
-Solved on: 2026-08-08T06:46:58.000Z
+Solved on: 2026-09-04T12:24:33.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
