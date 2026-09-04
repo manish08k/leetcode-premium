@@ -1,0 +1,50 @@
+# 1. To minimize our dataset filter for Customers + Dates with at least 1 valid consecutive day!
+WITH dataset_1 AS (
+    SELECT 
+        a.customer_id, 
+        a.transaction_date 
+    FROM 
+        Transactions a, 
+        Transactions b 
+    WHERE 
+        a.customer_id = b.customer_id 
+        AND b.amount > a.amount 
+        AND DATEDIFF(b.transaction_date, a.transaction_date) = 1
+),
+
+# 2. Expand those customers to get Row Numbers of all their transactions!
+dataset_2 AS (
+    SELECT 
+        customer_id, 
+        transaction_date,
+        ROW_NUMBER() OVER (PARTITION BY customer_id ORDER BY transaction_date) AS rn
+    FROM dataset_1
+),
+
+# 3. Collect those rows into groups based on their row numbers
+dataset_3 AS (
+    SELECT 
+        customer_id, 
+        transaction_date, 
+        DATE_SUB(transaction_date, INTERVAL rn DAY) AS date_group
+    FROM dataset_2
+),
+
+# 4. Count the # rows in that group to determine size
+dataset_4 AS (
+    SELECT 
+        customer_id, 
+        MIN(transaction_date) AS consecutive_start, 
+        COUNT(*) AS cnt
+    FROM dataset_3 
+    GROUP BY customer_id, date_group
+)
+
+# 5. Prettify the output!
+SELECT 
+    customer_id, 
+    consecutive_start,
+    DATE_ADD(consecutive_start, INTERVAL cnt DAY) AS consecutive_end 
+FROM dataset_4 
+WHERE cnt > 1 
+ORDER BY customer_id 
