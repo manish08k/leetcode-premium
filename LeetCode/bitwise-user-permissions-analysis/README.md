@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/bitwise-user-permissions-analysis/
 
-Solved on: 2026-08-04T18:13:49.000Z
+Solved on: 2026-09-04T12:08:10.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
