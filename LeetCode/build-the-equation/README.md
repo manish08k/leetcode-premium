@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/build-the-equation/
 
-Solved on: 2026-08-08T03:37:44.000Z
+Solved on: 2026-09-04T12:22:50.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
