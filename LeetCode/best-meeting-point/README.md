@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/best-meeting-point/
 
-Solved on: 2026-08-07T17:34:07.000Z
+Solved on: 2026-09-03T07:32:14.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Math, Sorting, Matrix
