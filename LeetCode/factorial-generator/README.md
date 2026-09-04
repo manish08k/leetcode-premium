@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/factorial-generator/
 
-Solved on: 2026-08-04T20:06:27.000Z
+Solved on: 2026-09-04T11:53:28.000Z
 Language: javascript
 Difficulty: Easy
 
