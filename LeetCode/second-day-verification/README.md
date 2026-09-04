@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/second-day-verification/
 
-Solved on: 2026-08-05T17:44:51.000Z
+Solved on: 2026-09-04T11:54:09.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
