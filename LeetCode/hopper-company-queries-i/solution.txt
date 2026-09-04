@@ -1,0 +1,43 @@
+WITH RECURSIVE months AS (
+    SELECT 1 AS month
+    UNION ALL
+    SELECT month + 1
+    FROM months
+    WHERE month < 12
+),
+available_drivers AS (
+    SELECT
+        driver_id,
+        CASE
+            WHEN YEAR(join_date) < 2020 THEN 1 
+            ELSE MONTH(join_date)
+        END AS available_month
+    FROM drivers
+    WHERE YEAR(join_date) <= 2020
+),
+available_drivers_per_month AS (
+    SELECT
+        m.month,
+        COUNT(d.driver_id) AS total_driver
+    FROM months m
+    LEFT JOIN available_drivers d
+           ON m.month >= d.available_month
+    GROUP BY m.month
+),
+accepted_rides_per_month AS (
+    SELECT
+        MONTH(r.requested_at) AS acc_month,
+        COUNT(a.ride_id) AS accepted_rides
+    FROM AcceptedRides a
+    LEFT JOIN Rides r USING (ride_id)
+    WHERE YEAR(r.requested_at) = 2020
+    GROUP BY acc_month
+)
+SELECT
+    month,
+    total_driver active_drivers ,
+    IFNULL(accepted_rides, 0) accepted_rides 
+FROM available_drivers_per_month
+LEFT JOIN accepted_rides_per_month
+       ON month = acc_month
+ORDER BY month;
