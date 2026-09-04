@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/article-views-ii/
 
-Solved on: 2026-08-07T04:09:58.000Z
+Solved on: 2026-09-04T11:55:31.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
