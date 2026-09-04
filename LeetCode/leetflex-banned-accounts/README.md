@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/leetflex-banned-accounts/
 
-Solved on: 2026-08-17T12:31:00.000Z
+Solved on: 2026-09-04T11:57:33.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
