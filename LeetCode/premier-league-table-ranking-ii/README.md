@@ -1,8 +1,8 @@
-# Premier League Table Ranking II
+# Find Overlapping Shifts
 
 Problem: https://leetcode.com/problems/premier-league-table-ranking-ii/
 
-Solved on: 2026-08-08T04:34:51.000Z
+Solved on: 2026-09-04T12:09:20.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
