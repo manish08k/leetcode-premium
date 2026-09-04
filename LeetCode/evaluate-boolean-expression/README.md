@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/evaluate-boolean-expression/
 
-Solved on: 2026-08-17T09:01:48.000Z
+Solved on: 2026-09-04T11:56:21.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
