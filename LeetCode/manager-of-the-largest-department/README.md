@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/manager-of-the-largest-department/
 
-Solved on: 2026-08-05T04:00:37.000Z
+Solved on: 2026-09-04T12:05:33.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
