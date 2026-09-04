@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/students-report-by-geography/
 
-Solved on: 2026-08-06T14:08:14.000Z
+Solved on: 2026-09-04T12:10:26.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
