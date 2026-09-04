@@ -1,57 +1,46 @@
-# LeetCode Premium Solutions
+# LeetCode Premium Questions
 
-A comprehensive collection of **LeetCode Premium problem solutions**, maintained as a personal resource for coding practice, problem solving, revision, and technical interview preparation.
+A comprehensive collection of **LeetCode Premium questions**, organized in one place for learning, practice, and technical interview preparation.
 
 ## About
 
-This repository contains solutions to **LeetCode Premium problems** collected and organized in one place.
+This repository is a collection of **LeetCode Premium problems** gathered for educational and reference purposes.
 
-The primary purpose of this repository is to work through Premium problems, understand their problem-solving approaches, and maintain a long-term reference for problems that have been solved.
+It is intended to make it easier to discover and review Premium questions in one place, particularly for developers and students preparing for coding interviews and technical assessments.
 
-The solutions may use different programming languages or approaches depending on the requirements of each individual problem.
+The repository focuses on the **problem collection itself**, rather than providing solutions.
 
-## Repository
+## What You'll Find
 
-The repository contains:
+- A large collection of LeetCode Premium questions
+- Problems organized within the repository for easy access
+- Questions useful for coding practice and interview preparation
+- A growing collection that is updated over time
 
-- LeetCode Premium problem solutions
-- Solutions developed through problem-solving practice
-- Different approaches where applicable
-- Problems covering a variety of coding and technical concepts
+## Who Is This For?
 
-The collection is continuously updated as more Premium problems are solved.
+This repository can be useful for:
+
+- Students preparing for coding interviews
+- Developers practicing problem solving
+- Candidates preparing for technical assessments
+- Anyone looking to explore LeetCode Premium problem sets
+- Learners who want a centralized reference for Premium questions
 
 ## Purpose
 
-This repository is primarily intended for:
+The purpose of this repository is to provide a convenient **educational reference and practice resource** for exploring LeetCode Premium questions.
 
-- Practicing LeetCode Premium problems
-- Improving problem-solving skills
-- Preparing for technical interviews
-- Revising previously solved problems
-- Maintaining a personal reference of solutions
-- Exploring different approaches to solving programming problems
-
-## Progress
-
-The repository is an ongoing collection of **LeetCode Premium problems and solutions**.
-
-As more problems are solved, the repository will continue to grow and serve as a comprehensive reference for Premium problem-solving practice.
+It is not intended to replace the official LeetCode platform or its Premium subscription and services.
 
 ## Disclaimer
 
-This repository is intended for **educational and learning purposes**.
+This repository is provided for **educational and informational purposes**.
 
 LeetCode and LeetCode Premium are trademarks of their respective owners. This repository is not affiliated with, sponsored by, or endorsed by LeetCode.
 
-Please refer to the official LeetCode platform for the original problem statements and additional problem information.
+Please support the original creators and use the official LeetCode platform where appropriate.
 
 ---
 
-### Author
-
-**Manish**
-
-A continuously growing collection of LeetCode Premium solutions.
-
-**Practice. Solve. Learn. Improve. 🚀**
+**Learn • Practice • Prepare 🚀**
