@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/snaps-analysis/
 
-Solved on: 2026-08-07T18:27:24.000Z
+Solved on: 2026-09-04T12:06:10.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
