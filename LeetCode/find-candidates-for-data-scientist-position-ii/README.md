@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/
 
-Solved on: 2026-08-08T17:34:20.000Z
+Solved on: 2026-09-04T12:09:32.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
