@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/friendly-movies-streamed-last-month/
 
-Solved on: 2026-08-16T11:19:41.000Z
+Solved on: 2026-09-04T11:49:18.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
