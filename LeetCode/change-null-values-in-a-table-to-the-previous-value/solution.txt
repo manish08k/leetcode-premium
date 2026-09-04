@@ -1,0 +1,12 @@
+with a as(
+    select *,row_number() over() rn from CoffeeShop 
+),
+b as(
+    select *, sum(drink is not null) over(order by rn) rnk from a
+),
+c as(select * from b
+where drink is  not null)
+select b.id,c.drink
+from b
+left join c
+using(rnk)
