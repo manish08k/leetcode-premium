@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/customer-purchasing-behavior-analysis/
 
-Solved on: 2026-08-08T17:32:09.000Z
+Solved on: 2026-09-04T12:08:38.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
