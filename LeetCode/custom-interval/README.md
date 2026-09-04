@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/custom-interval/
 
-Solved on: 2026-08-04T20:18:59.000Z
+Solved on: 2026-09-04T12:02:27.000Z
 Language: javascript
 Difficulty: Medium
 
