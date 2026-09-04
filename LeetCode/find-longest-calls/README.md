@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-longest-calls/
 
-Solved on: 2026-08-06T13:45:30.000Z
+Solved on: 2026-09-04T12:07:24.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
