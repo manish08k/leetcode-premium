@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/server-utilization-time/
 
-Solved on: 2026-08-07T17:40:05.000Z
+Solved on: 2026-09-04T12:07:39.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
