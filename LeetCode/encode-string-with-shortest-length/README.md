@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/encode-string-with-shortest-length/
 
-Solved on: 2026-08-08T07:59:40.000Z
+Solved on: 2026-09-03T07:33:12.000Z
 Language: python3
 Difficulty: Hard
 Tags: String, Dynamic Programming
