@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/low-quality-problems/
 
-Solved on: 2026-08-04T20:16:07.000Z
+Solved on: 2026-09-04T11:50:19.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
