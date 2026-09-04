@@ -1,0 +1,22 @@
+# Write your MySQL query statement below
+WITH RECURSIVE t1 AS(
+    SELECT b.*,ROW_NUMBER() OVER(ORDER BY arrival_time) 'rn', COUNT(passenger_id) 'acc'
+    FROM Buses b LEFT JOIN Passengers p ON b.arrival_time>=p.arrival_time
+    GROUP BY b.bus_id
+),
+t2 AS(
+    SELECT bus_id,LEAST(capacity,acc) 'passengers_cnt_acc',rn
+    FROM t1 
+    WHERE rn=1
+    UNION ALL
+    SELECT t1.bus_id,LEAST(t1.capacity,t1.acc-t2.passengers_cnt_acc)+t2.passengers_cnt_acc,t2.rn+1
+    FROM t1,t2 
+    WHERE t1.rn=t2.rn+1
+),
+t3 AS(
+    SELECT bus_id,passengers_cnt_acc-LAG(passengers_cnt_acc,1,0)OVER(ORDER BY rn)'passengers_cnt' 
+    FROM t2 
+)
+# SELECT * FROM t2
+SELECT * FROM t3
+ORDER BY bus_id 
