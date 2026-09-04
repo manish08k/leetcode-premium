@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/immediate-food-delivery-i/
 
-Solved on: 2026-08-16T11:17:38.000Z
+Solved on: 2026-09-04T11:48:15.000Z
 Language: pythondata
 Difficulty: Easy
 Tags: Database
