@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/leetcodify-similar-friends/
 
-Solved on: 2026-08-09T03:55:54.000Z
+Solved on: 2026-09-04T12:20:15.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
