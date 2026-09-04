@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/npv-queries/
 
-Solved on: 2026-08-04T20:27:29.000Z
+Solved on: 2026-09-04T11:49:11.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
