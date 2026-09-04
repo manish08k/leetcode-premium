@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/find-cumulative-salary-of-an-employee/
 
-Solved on: 2026-08-08T08:36:06.000Z
+Solved on: 2026-09-04T12:10:16.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
