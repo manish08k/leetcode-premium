@@ -1,0 +1,21 @@
+/* Write your T-SQL query statement below */
+
+
+
+
+with cte as (
+select v.driver_id ,fuel_type ,round(avg(rating*1.00),2) as rating ,sum(distance) as distance
+from  vehicles v 
+inner join trips t 
+on v.vehicle_id =t.vehicle_id 
+group by v.driver_id ,fuel_type
+)
+
+select fuel_type ,driver_id ,rating ,distance
+from (
+select fuel_type ,d.driver_id ,rating ,distance ,
+rank() over (partition by fuel_type order by rating desc ,distance desc ,accidents asc  ) as rk
+from cte c inner join drivers d 
+on d.driver_id =c.driver_id )t 
+where rk=1 
+order by fuel_type asc 
