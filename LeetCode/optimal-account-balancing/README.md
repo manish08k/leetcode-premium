@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/optimal-account-balancing/
 
-Solved on: 2026-08-29T14:22:30.000Z
+Solved on: 2026-09-03T07:33:09.000Z
 Language: python3
 Difficulty: Hard
 Tags: Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask
