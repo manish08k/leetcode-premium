@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/longest-team-pass-streak/
 
-Solved on: 2026-08-09T04:06:39.000Z
+Solved on: 2026-09-04T12:26:10.000Z
 Language: mysql
 Difficulty: Hard
 Tags: Database
