@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/deep-merge-of-two-objects/
 
-Solved on: 2026-08-06T11:00:23.000Z
+Solved on: 2026-09-04T12:01:31.000Z
 Language: javascript
 Difficulty: Medium
 
