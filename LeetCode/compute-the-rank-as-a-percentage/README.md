@@ -1,8 +1,8 @@
-# Compute the Rank as a Percentage
+# Calculate the Influence of Each Salesperson
 
 Problem: https://leetcode.com/problems/compute-the-rank-as-a-percentage/
 
-Solved on: 2026-08-08T16:23:50.000Z
+Solved on: 2026-09-04T12:00:10.000Z
 Language: mysql
 Difficulty: Medium
 Tags: Database
