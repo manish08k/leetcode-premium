@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/all-the-matches-of-the-league/
 
-Solved on: 2026-08-04T18:28:24.000Z
+Solved on: 2026-09-04T11:52:27.000Z
 Language: mysql
 Difficulty: Easy
 Tags: Database
