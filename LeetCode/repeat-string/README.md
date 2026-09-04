@@ -1,8 +1,8 @@
-# Repeat String
+# Partial Function with Placeholders
 
 Problem: https://leetcode.com/problems/repeat-string/
 
-Solved on: 2026-08-04T18:13:24.000Z
+Solved on: 2026-09-04T11:53:22.000Z
 Language: javascript
 Difficulty: Easy
 
