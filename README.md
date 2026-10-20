@@ -1,4 +1,4 @@
-# LeetCode Premium Question
+# LeetCode Premium Questions
 
 A comprehensive collection of **LeetCode Premium questions**, organized in one place for learning, practice, and technical interview preparation.
 
